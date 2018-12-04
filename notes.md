@@ -75,9 +75,19 @@ Places where you can sign up and complete a course online.
  - Downloading courses and hosting in a LMS: https://scorm.com/scorm-explained/
 
 
-# List of links, thoughts, etc.
- - Precious plastic - community focussed on recycling - lots of openly licensed resources.
+# Organizations & Communities
+ - Open university
  - [OERu](https://oeru.org/)
+ - https://edulabs.de/ - Open source project for analyzing, developing, sharing, and filtering OER
+ - http://openpedagogy.org/ - repository for open pedagogy practices;
+ - http://www.digitalpedagogylab.com/
+ - https://clalliance.org/who-we-are/
+ - https://red.reevo.org/ (Spanish)
+ - http://roer4d.org/ - research group
+ - [University of the People](https://www.uopeople.edu/programs/cs/degrees/computer-science-bachelor-degree-2/paying-for-school/)
+
+
+# List of links, thoughts, etc.
  - http://opensyllabusproject.org/faq/
  - https://medium.freecodecamp.org/200-universities-just-launched-560-free-online-courses-heres-the-full-list-d9dd13600b04
  - https://github.com/chili-epfl/FROG/wiki
@@ -92,21 +102,6 @@ Places where you can sign up and complete a course online.
  - http://www.bie.org/about/what_pbl - Project based learning resources
  - http://studycollaboration.com/ - peer learning
  - Learning registry - https://github.com/LearningRegistry/LearningRegistry/wiki
-
-
-
-# Peer learning pedagogy
+ - Precious plastic - community focussed on recycling - lots of openly licensed resources.
  - open, does it matter
  - accessible vs open
-
-
-# Organizations & Communities
- - Open university
- - OERu
- - https://edulabs.de/ - Open source project for analyzing, developing, sharing, and filtering OER
- - http://openpedagogy.org/ - repository for open pedagogy practices;
- - http://www.digitalpedagogylab.com/
- - https://clalliance.org/who-we-are/
- - https://red.reevo.org/ (Spanish)
- - http://roer4d.org/ - research group
- - [University of the People](https://www.uopeople.edu/programs/cs/degrees/computer-science-bachelor-degree-2/paying-for-school/)
