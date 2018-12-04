@@ -34,10 +34,12 @@ Places where you can sign up and complete a course online.
  - BC Campus OpenEd
  - African Minds
  - CourseTalk
- - Class Central
+ - [Class Central](https://www.class-central.com/)
  - Aprendi https://www.aprendi.org/teams/scott-county-library 
  - Open Culture - lots of discrete resources that could be comprised to make courses
  - Project Gutenberg - 57,000+ free eBooks
+ - https://www.hippocampus.org/
+ - https://www.oppia.org
 
 
 # Platforms
@@ -48,12 +50,29 @@ Places where you can sign up and complete a course online.
 
 
 # Tools
-- [Wordpress](https://wordpress.org/)
-- [OpenKi](https://openki.net/) [(source)](https://gitlab.com/Openki/Openki/)
-- https://h5p.org/
-- https://www.adaptlearning.org/
-- Prose.io
-- https://www.gitbook.com/?t=1
+ - [Wordpress](https://wordpress.org/)
+ - [OpenKi](https://openki.net/) [(source)](https://gitlab.com/Openki/Openki/)
+ - https://h5p.org/
+ - https://www.adaptlearning.org/
+ - Prose.io
+ - https://www.gitbook.com/?t=1
+ - https://en.wikitolearn.org/Main_Page
+ - https://github.com/oppia/oppia - content authoring
+
+
+# Offline
+ - [Internet in a box (IIAB)](https://github.com/iiab/iiab) - Tool for hosting a set of resources using a raspberry pi
+ - Example of a premade content repository: http://rachelfriends.org/previews/rachelpi_64EN_4.0/
+    - Resources like
+        - Khan Academy
+        - Wikipedia
+        - GCF LearnFree.org
+        - CK-12 Textbooks
+ - https://learningequality.org/ (from same people as IIAB) (https://github.com/fle-internal)
+ - http://rachelfriends.org/ - sells devices with IIAB on it.
+ - http://www.widernet.org/eGranary/
+ - https://github.com/rg3/youtube-dl
+ - Downloading courses and hosting in a LMS: https://scorm.com/scorm-explained/
 
 
 # List of links, thoughts, etc.
@@ -69,7 +88,10 @@ Places where you can sign up and complete a course online.
  - https://github.com/hakkens
  - https://davehakkens.nl/community/forums/topic/precious-plastic-version-4-%F0%9F%98%AE/
  - https://preciousplastic.com/en/videos/extra/builder.html
- - https://www.class-central.com/ 
+ - http://www.bridge.org.za/knowledge-hub/psam/post-school-access-map-overview/
+ - http://www.bie.org/about/what_pbl - Project based learning resources
+ - http://studycollaboration.com/ - peer learning
+ - Learning registry - https://github.com/LearningRegistry/LearningRegistry/wiki
 
 
 
@@ -81,9 +103,10 @@ Places where you can sign up and complete a course online.
 # Organizations & Communities
  - Open university
  - OERu
- - https://edulabs.de/ - Open source project for analyzing, developing, sharing, and filtering OER, could be very useful for us, both in terms of how they search/filter OER, and also their process for community-developed OER workshops
- - http://openpedagogy.org/ - New repository for open pedagogy practices; likely a kindred spirit in terms of how we want to see learning happen, could be good overlap to some of this work.
+ - https://edulabs.de/ - Open source project for analyzing, developing, sharing, and filtering OER
+ - http://openpedagogy.org/ - repository for open pedagogy practices;
  - http://www.digitalpedagogylab.com/
-
-
-
+ - https://clalliance.org/who-we-are/
+ - https://red.reevo.org/ (Spanish)
+ - http://roer4d.org/ - research group
+ - [University of the People](https://www.uopeople.edu/programs/cs/degrees/computer-science-bachelor-degree-2/paying-for-school/)
