@@ -22,7 +22,7 @@ Course developers that reliably opt for Creative Commons or equivalent open lice
 ### Free
 Course developers who generally retain copyright, but offer a useable portion of course materials for free.
 
-- [Alison](https://alison.com/courses)
+ - [Alison](https://alison.com/courses)
  - [Canvas network](https://www.canvas.net/)
  - [Codecademy](https://www.codecademy.com/) 
  - [Coursera](https://www.coursera.org/)
@@ -87,9 +87,12 @@ These open source tools can be used to remix and create OER.
  - [More on open platforms tab here](https://docs.google.com/spreadsheets/d/1xDGIKZ7T5fIho7yrTs8Lpu4zpqPbeqQn76aY6qEnAUg/edit#gid=289086692)
  
  ### Supplemental Tools
+ - [Bookdown](https://bookdown.org/) open-source R package that facilitates writing books and long-form articles/reports with R Markdown. See also Docker image Axel mentioned, which brings Bookdown into a potential Gitlab pipeline: https://github.com/rstudio/bookdown-demo/blob/master/Dockerfile
+ - [DeepL](https://www.deepl.com/translator) for translation
  - [OpenKi](https://openki.net/) [(source)](https://gitlab.com/Openki/Openki/)
  - [Prose.io](Prose.io)
- - [Gitbook](https://www.gitbook.com/)
+ - [Gitbook](https://www.gitbook.com/) proprietary static site generator
+ - [Hugo])(https://gohugo.io/) static site generator
 
 # Communities of Practice
 - [EduLabs](https://edulabs.de/) Open source project for analyzing, developing, sharing, and filtering OER
