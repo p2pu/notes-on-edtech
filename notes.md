@@ -98,6 +98,7 @@ These open source tools can be used to remix and create OER.
 - [Rebus]
 - [Iowa State University OER Research Tool](https://docs.google.com/spreadsheets/d/1xDGIKZ7T5fIho7yrTs8Lpu4zpqPbeqQn76aY6qEnAUg/edit#gid=941689191)
  - [Connected Learning Alliance](https://clalliance.org/)
+ - [Open Virtual Mobility](https://www.openvirtualmobility.eu/) EU project
  - [Reevo](https://red.reevo.org/) (Spanish)
  - [ROER4D](http://roer4d.org/) Research on open educational resources for development
  - [University of the People](https://www.uopeople.edu/)
