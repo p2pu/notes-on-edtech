@@ -1,93 +1,120 @@
-This is a list of resources that is relevant to peer education.
+P2PU is launching an OER Collective, with the goal of creating a more vibrant ecosystem of open learning resources that work well in the [learning circle](https://www.p2pu.org/en/learning-circles/) context. Our motivation for this project [is documented on our blog](https://medium.com/p2pu/online-learning-at-the-library-289364af318a). 
 
-We are interested in
-- Content that is relevant
-- Experiences that empower the learner
-- people working together
-
+These are our working notes about content developers, tools, platforms, and organizations who may serve as partners on this project. 
 
 # Online course providers
+Organizations who develop content that people have used for learning circles in the past, distinguished by license. Our baseline rule for learning circles is that participants should never have to pay anything to attend, however our long-term vision is that learning circles serve to improve open online learning resources, rather than help institutions justify paying license fees to proprietary vendors.
 
-Places where you can sign up and complete a course online.
+### Open
+Course developers that reliably opt for Creative Commons or equivalent open license.
 
- - EdX
- - Coursera
- - Udacity
- - [Canvas network](https://www.canvas.net/)
- - Saylor
- - Tech Change
- - FutureLearn
- - SkillShare
-
-
-
-# Content
-
- - [OER commons](https://www.oercommons.org/) Also see microsite project → https://www.oercommons.org/microsites 
+ - [DigitalLearn](https://digitallearn.org/)
+ - [LumenLearning](https://lumenlearning.com/)
  - [MIT open course ware](https://ocw.mit.edu/index.htm)
- - MITx
- - https://www.wikihow.com/Main-Page
- - [Wikiversity](https://en.wikiversity.org/wiki/Wikiversity:Main_Page)
- - https://digitallearn.org/
- - Openstax
- - U Minnesota Open Textbook Library
- - BC Campus OpenEd
- - African Minds
- - CourseTalk
+ - [Saylor Academy](https://www.saylor.org/) 
+ - [Scratch](https://scratch.mit.edu/)
+ - [OERu](https://oeru.org/) 
+ - [Open Learning Initiative](https://oli.cmu.edu/)
+ - [OpenLearn](https://www.open.edu/openlearn/)
+ - [TechBoomers](https://techboomers.com/)
+ - [Wisc-Online](https://www.wisc-online.com/)
+ 
+### Free
+Course developers who generally retain copyright, but offer a useable portion of course materials for free.
+
+- [Alison](https://alison.com/courses)
+ - [Canvas network](https://www.canvas.net/)
+ - [Codecademy](https://www.codecademy.com/) 
+ - [Coursera](https://www.coursera.org/)
+ - [EdX](https://www.edx.org/)
+ - [FutureLearn](https://www.futurelearn.com/)
+ - [GCF Learn Free](https://edu.gcfglobal.org/en/)
+ - [Khan Academy](https://www.khanacademy.org/)
+ - [OpenHIP](https://open.hpi.de/)
+ - [Plus Acumen](https://www.plusacumen.org/) 
+ - [Udacity](https://www.udacity.com/)
+ - [USA Learns](https://www.usalearns.org/)
+ - [U.S. Citizenship and Immigration Services](https://www.uscis.gov/citizenship)
+
+### Payment
+Course developers who charge for access to courses, and whose fees (in the context of learning circles) are generally covered by an institution-wide license at a public library system.
+
+  - [GALE Courses](https://www.gale.com/c/gale-courses)
+  - [Lynda](https://www.lynda.com/)
+  - [Tech Change](https://www.techchange.org/)
+  - [Universal Class](https://library.universalclass.com/index.htm)
+
+# Good OER resources not structured as online courses
+These organizations and initiatives develop openly licensed content that is not compiled as an online course (e.g. database, open textbook). Since learning circle facilitators are not expected to be content experts, we need to ensure that materials are presented in a format that works well for learning circles: 6-8 weeks of 2 hour meetings in small, face-to-face study groups.
+
+### Open Textbooks
+
+ - [African Minds](http://www.africanminds.co.za/)
+ - [BC Campus Open Ed](https://open.bccampus.ca/)
+ - [Open Textbook Library](https://open.umn.edu/opentextbooks/)
+ - [Openstax](https://openstax.org/)
+ - [Rebus](https://press.rebus.community/the-rebus-guide-to-publishing-open-textbooks/) Guide to publishing open textbooks
+ - [See additional resources on content origins tab here](https://docs.google.com/spreadsheets/d/1xDGIKZ7T5fIho7yrTs8Lpu4zpqPbeqQn76aY6qEnAUg/edit#gid=941689191)
+ 
+### Databases/Curation Tools
+
+ - [Aprendi](https://www.aprendi.org/)
  - [Class Central](https://www.class-central.com/)
- - Aprendi https://www.aprendi.org/teams/scott-county-library 
- - Open Culture - lots of discrete resources that could be comprised to make courses
- - Project Gutenberg - 57,000+ free eBooks
- - https://www.hippocampus.org/
- - https://www.oppia.org
+ - [Digital Public Library of America](https://dp.la/)
+ - [HippoCampus](https://www.hippocampus.org/)
+ - [OER Commons](https://www.oercommons.org/) Also see microsite project → https://www.oercommons.org/microsites 
+ - [Open Culture](http://www.openculture.com/)
+ - [Project Gutenberg](https://www.gutenberg.org/)
+ - [WikiHow](https://www.wikihow.com/Main-Page)
+ - [Wikiversity](https://en.wikiversity.org/wiki/Wikiversity:Main_Page)
 
+# OER Creation
+These open source tools can be used to remix and create OER.
 
-# Platforms
- - [Open EdX](https://open.edx.org/)
- - [Course in a box](https://howto.p2pu.org)
- - [Sakai](https://sakaiproject.org/)
+### Platforms
+ - [Open EdX](https://open.edx.org/) [(source)](https://github.com/edx/edx-platform)
+ - [P2PU Learnanta](courses.p2pu.org) [(source)](https://github.com/p2pu/lernanta)
+ - [P2PU Course in a Box](https://howto.p2pu.org) [(source)](https://github.com/p2pu/course-in-a-box)
+ - [Moodle](https://moodle.org/) [(source)](https://github.com/moodle/moodle)
  - [Canvas](https://www.canvaslms.com/) [(source)](https://github.com/instructure/canvas-lms)
-
-
-# Tools
+ - [Oppia](https://www.oppia.org) [(source)](https://github.com/oppia/oppia)
+ - [OER Commons OpenAuthor](https://www.oercommons.org/) 
+ - [Google Course Builder](https://edu.google.com/openonline/) (source??)
+ - [H5P](https://h5p.org/) [(source)](https://github.com/h5p)
+ - [Adapt Learning](https://www.adaptlearning.org/) [(source)](https://github.com/adaptlearning)
+ - [WikitoLearn](https://en.wikitolearn.org/Main_Page) [(source)](https://github.com/WikiToLearn)
  - [Wordpress](https://wordpress.org/)
+ - [More on open platforms tab here](https://docs.google.com/spreadsheets/d/1xDGIKZ7T5fIho7yrTs8Lpu4zpqPbeqQn76aY6qEnAUg/edit#gid=289086692)
+ 
+ ### Supplemental Tools
  - [OpenKi](https://openki.net/) [(source)](https://gitlab.com/Openki/Openki/)
- - https://h5p.org/
- - https://www.adaptlearning.org/
- - Prose.io
- - https://www.gitbook.com/?t=1
- - https://en.wikitolearn.org/Main_Page
- - https://github.com/oppia/oppia - content authoring
+ - [Prose.io](Prose.io)
+ - [Gitbook](https://www.gitbook.com/)
+
+# Communities of Practice
+- [EduLabs](https://edulabs.de/) Open source project for analyzing, developing, sharing, and filtering OER
+- [Open Pedagogy](http://openpedagogy.org/) Repository for open pedagogy practices
+- [Digital Pedagogy Lab](http://www.digitalpedagogylab.com/)
+- [Rebus]
+- [Iowa State University OER Research Tool](https://docs.google.com/spreadsheets/d/1xDGIKZ7T5fIho7yrTs8Lpu4zpqPbeqQn76aY6qEnAUg/edit#gid=941689191)
+ - [Connected Learning Alliance](https://clalliance.org/)
+ - [Reevo](https://red.reevo.org/) (Spanish)
+ - [ROER4D](http://roer4d.org/) Research on open educational resources for development
+ - [University of the People](https://www.uopeople.edu/)
+
+# Offline tools
+Tools for bringing OER and other learning resources offline.
+ 
+ - [eGranary](http://www.widernet.org/eGranary/)
+ - [Internet in a box (IIAB)](https://github.com/iiab/iiab) - Tool for hosting a set of resources using a raspberry pi. 
+ - [Learning Equality](https://learningequality.org/) (from same people as IIAB) (https://github.com/fle-internal)
+-  [Rachel Friends](http://rachelfriends.org/) - Sells devices with IIAB on it. Example of a premade content repository: http://rachelfriends.org/previews/rachelpi_64EN_4.0/
+- [Read the Docs](https://readthedocs.org/) Ability to pdf course materials
+ - [Scorm](https://scorm.com/scorm-explained/) Downloading courses and hosting in a LMS
+ - [Youtube-dl](https://github.com/rg3/youtube-dl) Command-line program to download videos from YouTube.com and other video sites
 
 
-# Offline
- - [Internet in a box (IIAB)](https://github.com/iiab/iiab) - Tool for hosting a set of resources using a raspberry pi
- - Example of a premade content repository: http://rachelfriends.org/previews/rachelpi_64EN_4.0/
-    - Resources like
-        - Khan Academy
-        - Wikipedia
-        - GCF LearnFree.org
-        - CK-12 Textbooks
- - https://learningequality.org/ (from same people as IIAB) (https://github.com/fle-internal)
- - http://rachelfriends.org/ - sells devices with IIAB on it.
- - http://www.widernet.org/eGranary/
- - https://github.com/rg3/youtube-dl
- - Downloading courses and hosting in a LMS: https://scorm.com/scorm-explained/
-
-
-# Organizations & Communities
- - Open university
- - [OERu](https://oeru.org/)
- - https://edulabs.de/ - Open source project for analyzing, developing, sharing, and filtering OER
- - http://openpedagogy.org/ - repository for open pedagogy practices;
- - http://www.digitalpedagogylab.com/
- - https://clalliance.org/who-we-are/
- - https://red.reevo.org/ (Spanish)
- - http://roer4d.org/ - research group
- - [University of the People](https://www.uopeople.edu/programs/cs/degrees/computer-science-bachelor-degree-2/paying-for-school/)
-
-
-# List of links, thoughts, etc.
+# Uncategorized links, thoughts, etc.
  - http://opensyllabusproject.org/faq/
  - https://medium.freecodecamp.org/200-universities-just-launched-560-free-online-courses-heres-the-full-list-d9dd13600b04
  - https://github.com/chili-epfl/FROG/wiki
@@ -101,7 +128,6 @@ Places where you can sign up and complete a course online.
  - http://www.bridge.org.za/knowledge-hub/psam/post-school-access-map-overview/
  - http://www.bie.org/about/what_pbl - Project based learning resources
  - http://studycollaboration.com/ - peer learning
- - Learning registry - https://github.com/LearningRegistry/LearningRegistry/wiki
+ - https://github.com/LearningRegistry/LearningRegistry/wiki
  - Precious plastic - community focussed on recycling - lots of openly licensed resources.
- - open, does it matter
- - accessible vs open
+
