@@ -95,16 +95,19 @@ These open source tools can be used to remix and create OER.
  - [Hugo])(https://gohugo.io/) static site generator
 
 # Communities of Practice
+Organizations with likeminded initiatives.
+
 - [EduLabs](https://edulabs.de/) Open source project for analyzing, developing, sharing, and filtering OER
 - [Open Pedagogy](http://openpedagogy.org/) Repository for open pedagogy practices
 - [Digital Pedagogy Lab](http://www.digitalpedagogylab.com/)
 - [Rebus]
 - [Iowa State University OER Research Tool](https://docs.google.com/spreadsheets/d/1xDGIKZ7T5fIho7yrTs8Lpu4zpqPbeqQn76aY6qEnAUg/edit#gid=941689191)
- - [Connected Learning Alliance](https://clalliance.org/)
- - [Open Virtual Mobility](https://www.openvirtualmobility.eu/) EU project
- - [Reevo](https://red.reevo.org/) (Spanish)
- - [ROER4D](http://roer4d.org/) Research on open educational resources for development
- - [University of the People](https://www.uopeople.edu/)
+- [Connected Learning Alliance](https://clalliance.org/)
+- [OER Africa](https://www.oerafrica.org/)
+- [Open Virtual Mobility](https://www.openvirtualmobility.eu/) EU project
+- [Reevo](https://red.reevo.org/) (Spanish)
+- [ROER4D](http://roer4d.org/) Research on open educational resources for development
+- [University of the People](https://www.uopeople.edu/)
 
 # Offline tools
 Tools for bringing OER and other learning resources offline.
@@ -112,8 +115,8 @@ Tools for bringing OER and other learning resources offline.
  - [eGranary](http://www.widernet.org/eGranary/)
  - [Internet in a box (IIAB)](https://github.com/iiab/iiab) - Tool for hosting a set of resources using a raspberry pi. 
  - [Learning Equality](https://learningequality.org/) (from same people as IIAB) (https://github.com/fle-internal)
--  [Rachel Friends](http://rachelfriends.org/) - Sells devices with IIAB on it. Example of a premade content repository: http://rachelfriends.org/previews/rachelpi_64EN_4.0/
-- [Read the Docs](https://readthedocs.org/) Ability to pdf course materials
+ -  [Rachel Friends](http://rachelfriends.org/) - Sells devices with IIAB on it. Example of a premade content repository: http://rachelfriends.org/previews/rachelpi_64EN_4.0/
+ - [Read the Docs](https://readthedocs.org/) Ability to pdf course materials
  - [Scorm](https://scorm.com/scorm-explained/) Downloading courses and hosting in a LMS
  - [Youtube-dl](https://github.com/rg3/youtube-dl) Command-line program to download videos from YouTube.com and other video sites
 
