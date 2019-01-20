@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 P2PU is launching an OER Collective, with the goal of creating a more vibrant ecosystem of open learning resources that work well in the [learning circle](https://www.p2pu.org/en/learning-circles/) context. Our motivation for this project [is documented on our blog](https://medium.com/p2pu/online-learning-at-the-library-289364af318a). 
 
 These are our working notes about content developers, tools, platforms, and organizations who may serve as partners on this project. 
