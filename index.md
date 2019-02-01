@@ -39,6 +39,7 @@ Course developers who generally retain copyright, but offer a useable portion of
  - [Udacity](https://www.udacity.com/)
  - [USA Learns](https://www.usalearns.org/)
  - [U.S. Citizenship and Immigration Services](https://www.uscis.gov/citizenship)
+ = [W3 Schools](https://www.w3schools.com/)
 
 ### Payment
 Course developers who charge for access to courses, and whose fees (in the context of learning circles) are generally covered by an institution-wide license at a public library system.
@@ -141,4 +142,6 @@ Tools for bringing OER and other learning resources offline.
  - http://studycollaboration.com/ - peer learning
  - https://github.com/LearningRegistry/LearningRegistry/wiki
  - Precious plastic - community focussed on recycling - lots of openly licensed resources.
+ - https://learnxinyminutes.com/
+ - http://www.textbookrevolution.org/index.php/Main_Page
 
