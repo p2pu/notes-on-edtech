@@ -56,9 +56,12 @@ These organizations and initiatives develop openly licensed content that is not 
 
  - [African Minds](http://www.africanminds.co.za/)
  - [BC Campus Open Ed](https://open.bccampus.ca/)
+ - [College of the Canyons](https://www.canyons.edu/Offices/DistanceLearning/OER/Pages/COC%20OER%20Textbooks.aspx)
+ - [LibreTexts](https://libretexts.org/)
  - [Open Textbook Library](https://open.umn.edu/opentextbooks/)
  - [Openstax](https://openstax.org/)
  - [Rebus](https://press.rebus.community/the-rebus-guide-to-publishing-open-textbooks/) Guide to publishing open textbooks
+ - [Unglue.it](https://unglue.it)
  - [See additional resources on content origins tab here](https://docs.google.com/spreadsheets/d/1xDGIKZ7T5fIho7yrTs8Lpu4zpqPbeqQn76aY6qEnAUg/edit#gid=941689191)
  
 ### Databases/Curation Tools
@@ -68,8 +71,12 @@ These organizations and initiatives develop openly licensed content that is not 
  - [Digital Public Library of America](https://dp.la/)
  - [HippoCampus](https://www.hippocampus.org/)
  - [OER Commons](https://www.oercommons.org/) Also see microsite project → https://www.oercommons.org/microsites 
+ - [OER World Map](https://oerworldmap.org/)
  - [Open Culture](http://www.openculture.com/)
  - [Project Gutenberg](https://www.gutenberg.org/)
+ - [Robert Schuwer](https://www.robertschuwer.nl/?page_id=309)
+ - [Skills Commons](https://www.skillscommons.org/)
+ - [Solvonauts](https://solvonauts.org/)
  - [WikiHow](https://www.wikihow.com/Main-Page)
  - [Wikiversity](https://en.wikiversity.org/wiki/Wikiversity:Main_Page)
 
@@ -87,6 +94,7 @@ These open source tools can be used to remix and create OER.
  - [Google Course Builder](https://edu.google.com/openonline/) (source??)
  - [H5P](https://h5p.org/) [(source)](https://github.com/h5p)
  - [Adapt Learning](https://www.adaptlearning.org/) [(source)](https://github.com/adaptlearning)
+ - [WikiEducator](https://wikieducator.org/Main_Page)
  - [WikitoLearn](https://en.wikitolearn.org/Main_Page) [(source)](https://github.com/WikiToLearn)
  - [Wordpress](https://wordpress.org/)
  - [More on open platforms tab here](https://docs.google.com/spreadsheets/d/1xDGIKZ7T5fIho7yrTs8Lpu4zpqPbeqQn76aY6qEnAUg/edit#gid=289086692)
@@ -144,4 +152,5 @@ Tools for bringing OER and other learning resources offline.
  - Precious plastic - community focussed on recycling - lots of openly licensed resources.
  - https://learnxinyminutes.com/
  - http://www.textbookrevolution.org/index.php/Main_Page
+ 
 
