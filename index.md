@@ -14,7 +14,7 @@ Course developers that reliably opt for Creative Commons or equivalent open lice
 
  - [DigitalLearn](https://digitallearn.org/)
  - [LumenLearning](https://lumenlearning.com/)
- - [MIT open course ware](https://ocw.mit.edu/index.htm)
+ - [MIT OpenCourseWare](https://ocw.mit.edu/index.htm)
  - [Saylor Academy](https://www.saylor.org/) 
  - [Scratch](https://scratch.mit.edu/)
  - [OERu](https://oeru.org/) 
@@ -39,7 +39,7 @@ Course developers who generally retain copyright, but offer a useable portion of
  - [Udacity](https://www.udacity.com/)
  - [USA Learns](https://www.usalearns.org/)
  - [U.S. Citizenship and Immigration Services](https://www.uscis.gov/citizenship)
- = [W3 Schools](https://www.w3schools.com/)
+ - [W3 Schools](https://www.w3schools.com/)
 
 ### Payment
 Course developers who charge for access to courses, and whose fees (in the context of learning circles) are generally covered by an institution-wide license at a public library system.
