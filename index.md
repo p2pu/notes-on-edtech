@@ -100,7 +100,7 @@ These open source tools can be used to remix and create OER.
  - [Wordpress](https://wordpress.org/)
  - [More on open platforms tab here](https://docs.google.com/spreadsheets/d/1xDGIKZ7T5fIho7yrTs8Lpu4zpqPbeqQn76aY6qEnAUg/edit#gid=289086692)
  
- ### Supplemental Tools
+### Supplemental Tools
  - [Bookdown](https://bookdown.org/) open-source R package that facilitates writing books and long-form articles/reports with R Markdown. [See also Docker image](https://github.com/rstudio/bookdown-demo/blob/master/Dockerfile) Axel mentioned, which brings Bookdown into a potential Gitlab pipeline.
  - [DeepL](https://www.deepl.com/translator) for translation
  - [OpenKi](https://openki.net/) [(source)](https://gitlab.com/Openki/Openki/)
