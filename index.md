@@ -20,6 +20,7 @@ Course developers that reliably opt for Creative Commons or equivalent open lice
  - [OERu](https://oeru.org/) 
  - [Open Learning Initiative](https://oli.cmu.edu/)
  - [OpenLearn](https://www.open.edu/openlearn/)
+ - [Skills Commons](https://www.skillscommons.org/)
  - [TechBoomers](https://techboomers.com/)
  - [Wisc-Online](https://www.wisc-online.com/)
  
