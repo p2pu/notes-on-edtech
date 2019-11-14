@@ -107,8 +107,8 @@ These open source tools can be used to remix and create OER.
  - [OpenKi](https://openki.net/) [(source)](https://gitlab.com/Openki/Openki/)
  - [Prose.io](Prose.io)
  - [Gitbook](https://www.gitbook.com/) proprietary static site generator
- - [Hugo])(https://gohugo.io/) static site generator
-
+ - [Hugo](https://gohugo.io/) static site generator
+ 
 # Communities of Practice
 Organizations with likeminded initiatives.
 
