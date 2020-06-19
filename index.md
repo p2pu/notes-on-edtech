@@ -73,6 +73,8 @@ These organizations and initiatives develop openly licensed content that is not 
  - [Community College Consortium for OER](https://www.cccoer.org/learn/find-oer/)
  - [Digital Public Library of America](https://dp.la/)
  - [HippoCampus](https://www.hippocampus.org/)
+ - [Humbolt State LibGuides](https://libguides.humboldt.edu/openedu/)
+ - [Open Library](https://openlibrary.org/)
  - [OER Commons](https://www.oercommons.org/) Also see microsite project → https://www.oercommons.org/microsites 
  - [OER World Map](https://oerworldmap.org/)
  - [Open Culture](http://www.openculture.com/)
