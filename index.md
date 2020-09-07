@@ -108,7 +108,8 @@ These open source tools can be used to remix and create OER.
  - [Bookdown](https://bookdown.org/) open-source R package that facilitates writing books and long-form articles/reports with R Markdown. [See also Docker image](https://github.com/rstudio/bookdown-demo/blob/master/Dockerfile) Axel mentioned, which brings Bookdown into a potential Gitlab pipeline.
  - [DeepL](https://www.deepl.com/translator) for translation
  - [OpenKi](https://openki.net/) [(source)](https://gitlab.com/Openki/Openki/)
- - [Prose.io](Prose.io)
+ - [Prose.io](https://prose.io/)
+ - [Netlify CMS](https://www.netlifycms.org/)
  - [Gitbook](https://www.gitbook.com/) proprietary static site generator
  - [Hugo](https://gohugo.io/) static site generator
  
@@ -133,7 +134,7 @@ Tools for bringing OER and other learning resources offline.
  - [eGranary](http://www.widernet.org/eGranary/)
  - [Internet in a box (IIAB)](https://github.com/iiab/iiab) - Tool for hosting a set of resources using a raspberry pi. 
  - [Learning Equality](https://learningequality.org/) (from same people as IIAB) (https://github.com/fle-internal)
- -  [Rachel Friends](http://rachelfriends.org/) - Sells devices with IIAB on it. Example of a premade content repository: http://rachelfriends.org/previews/rachelpi_64EN_4.0/
+ - [Rachel Friends](http://rachelfriends.org/) - Sells devices with IIAB on it. Example of a premade content repository: http://rachelfriends.org/previews/rachelpi_64EN_4.0/
  - [Read the Docs](https://readthedocs.org/) Ability to pdf course materials
  - [Scorm](https://scorm.com/scorm-explained/) Downloading courses and hosting in a LMS
  - [Youtube-dl](https://github.com/rg3/youtube-dl) Command-line program to download videos from YouTube.com and other video sites
