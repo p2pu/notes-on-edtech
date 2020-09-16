@@ -2,9 +2,7 @@
 layout: page
 ---
 
-P2PU is launching an OER Collective, with the goal of creating a more vibrant ecosystem of open learning resources that work well in the [learning circle](https://www.p2pu.org/en/learning-circles/) context. Our motivation for this project [is documented on our blog](https://medium.com/p2pu/online-learning-at-the-library-289364af318a). 
-
-These are our working notes about content developers, tools, platforms, and organizations who may serve as partners on this project. 
+P2PU's ongoing notes about content developers, tools, platforms, and organizations who contribute to our ecosystem of courses and learning resources
 
 # Online course providers
 Organizations who develop content that people have used for learning circles in the past, distinguished by license. Our baseline rule for learning circles is that participants should never have to pay anything to attend, however our long-term vision is that learning circles serve to improve open online learning resources, rather than help institutions justify paying license fees to proprietary vendors.
