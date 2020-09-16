@@ -2,7 +2,8 @@
 layout: page
 ---
 
-P2PU's ongoing notes about content developers, tools, platforms, and organizations who contribute to our ecosystem of courses and learning resources
+P2PU's ongoing notes about content developers, tools, platforms, and organizations who contribute to our ecosystem of courses and learning resources.
+Live at: https://p2pu.github.io/notes-on-edtech/
 
 # Online course providers
 Organizations who develop content that people have used for learning circles in the past, distinguished by license. Our baseline rule for learning circles is that participants should never have to pay anything to attend, however our long-term vision is that learning circles serve to improve open online learning resources, rather than help institutions justify paying license fees to proprietary vendors.
